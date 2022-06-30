@@ -1,4 +1,4 @@
-print ("2Hello world!")
+print ("Hello world!")
 print("Tudor is my name")
 
 
