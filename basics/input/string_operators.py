@@ -1,0 +1,7 @@
+print("Please enter the number of lives.")
+lives = str(input())
+print(" Please enter the energy level.")
+energy = str(input())
+print(" Please enter the shield level.")
+shield = str(input())
+print(f"\n Health has been set.\n\n\n Lives:\t\t{lives}\n Energy:\t{energy}\n Shield:\t{shield}")
