@@ -1,4 +1,12 @@
-print ("Hello world!")
-print("Tudor is my name")
-
-
+print("Please enter the number of lives: ")
+lives = int(input())
+print(" Please enter the energy level: ")
+Energy = int(input())
+print(" Please enter the shield level: ")
+Shield = int(input())
+print()
+print("Health has been set.")
+print()
+print("Lives: ", "\u2665"*lives)
+print("Energy: ", "\u2666"*Energy)
+print("Shield: ", "\u2720"*Shield)
